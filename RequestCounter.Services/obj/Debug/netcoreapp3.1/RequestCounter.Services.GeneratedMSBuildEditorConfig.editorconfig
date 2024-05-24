@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RequestCounter.Services
+build_property.ProjectDir = /Users/barrze/Documents/RequestCounter/start/RequestCounter/RequestCounter.Services/

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "izL+MdOxNudlTgb9jYV3NdjFWhK/8+eBN1BOKeiOx+4yaiCdlnqkg9lIAkD+kA9g0m6iDMQpLaK1JHEQoaJBmQ==",
+  "success": true,
+  "projectFilePath": "/Users/barrze/Documents/RequestCounter/start/RequestCounter/RequestCounter.Services/RequestCounter.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/barrze/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/barrze/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/barrze/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
